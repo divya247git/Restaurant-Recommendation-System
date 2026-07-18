@@ -52,7 +52,7 @@ Restaurant-Recommendation-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Restaurant-Recommendation-System.git
+git clone https://github.com/divya247git/Restaurant-Recommendation-System.git
 ```
 
 ### Navigate to the Project Directory
@@ -74,6 +74,25 @@ python app.py
 ```
 
 ---
+## How to Run the App
+Ensure the virtual environment is activated:
+
+bash
+
+source venv/bin/activate
+Launch the Flask application:
+
+bash
+
+python3 restaurant_recommender/app.py
+Open your web browser and navigate to: http://localhost:5000
+
+Upload Your Dataset: To test it with your custom Kaggle dataset, click Upload CSV in the header and select your zomato.csv file. The server will dynamically load, parse, and retrain the hybrid recommender on the fly!
+
+
+## OUTPUT :
+<img width="1817" height="981" alt="image" src="https://github.com/user-attachments/assets/4be5bddd-e0bf-4042-87e2-04b4d2e19466" />
+
 
 ## 🎯 Future Enhancements
 
