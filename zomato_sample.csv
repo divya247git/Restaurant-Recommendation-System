@@ -1,0 +1,151 @@
+restaurant_id,name,city,locality,cuisines,aggregate_rating,votes,cost_for_two
+1,Spicy Roll,Tokyo,Shibuya,"Indian, North Indian, Mughlai",4.4,1131,740
+2,The Golden Zen,London,Kensington,"Indian, North Indian, Mughlai",4.0,69,1300
+3,Wok & Italy,Tokyo,Akihabara,"French, Bakery, Cafe",4.1,28,1100
+4,Spicy Joint,Tokyo,Roppongi,"Chinese, Asian, Dumplings",4.5,224,760
+5,Gourmet Tavern,New York,Manhattan,"Chinese, Asian, Dumplings",3.1,955,920
+6,Royal Tavern,New York,Manhattan,"Thai, Asian, Curry",4.7,755,1280
+7,Nirvana Indian Cuisine,Tokyo,Shibuya,"Indian, North Indian, Mughlai",3.4,221,2240
+8,Le Petit Hub,Delhi,Hauz Khas,"Chinese, Asian, Dumplings",4.3,161,1160
+9,Little Nights,London,Soho,"Japanese, Sushi, Ramen",4.8,1155,1420
+10,Tandoori Mahal,Tokyo,Ginza,"Indian, North Indian, Mughlai",3.5,447,1900
+11,Little Joint,Mumbai,Andheri West,"French, Bakery, Cafe",3.5,520,1640
+12,House of Nights,Tokyo,Akihabara,"French, Bakery, Cafe",3.7,298,2900
+13,Nirvana Indian Cuisine (Manhattan),New York,Manhattan,"Indian, North Indian, Mughlai",4.3,145,2260
+14,Bistro Sichuan,New York,Astoria,"Mediterranean, Greek, Falafel",4.8,38,880
+15,Urban Loco,Tokyo,Akihabara,"American, Burgers, Fast Food",3.6,338,2620
+16,Le Petit Garden,Bangalore,HSR Layout,"Thai, Asian, Curry",4.7,626,2880
+17,Izakaya Tokyo,London,Soho,"Japanese, Sushi, Ramen",4.7,678,2800
+18,Royal Roll,Bangalore,Indiranagar,"Chinese, Asian, Dumplings",4.7,176,720
+19,Grand Joint,Tokyo,Roppongi,"Italian, Pizza, Pasta",3.9,1140,1140
+20,Bella Breeze,Delhi,Karol Bagh,"Continental, Seafood, Steak",4.8,426,1880
+21,Bistro Italy,New York,Queens,"Mediterranean, Greek, Falafel",3.2,475,620
+22,Grand Roll,Delhi,Connaught Place,"Continental, Seafood, Steak",4.1,29,660
+23,Taco Fiesta,Tokyo,Shibuya,"Mexican, Tacos, Quesadillas",4.0,585,2780
+24,Oishi Sushi,Mumbai,Lower Parel,"Japanese, Sushi, Ramen",4.5,404,780
+25,Great Wall Buffet,Bangalore,Jayanagar,"Chinese, Asian, Dumplings",4.3,216,600
+26,Wok & Breeze,New York,Queens,"Italian, Pizza, Pasta",3.9,879,1220
+27,Salsa & Guac,Delhi,Hauz Khas,"Mexican, Tacos, Quesadillas",3.2,1122,360
+28,Oishi Sushi (Koramangala),Bangalore,Koramangala,"Japanese, Sushi, Ramen",4.7,352,2240
+29,Little Palace,Bangalore,Jayanagar,"American, Burgers, Fast Food",3.8,1153,2780
+30,Mediterranean Pizzeria,Mumbai,Juhu,"American, Burgers, Fast Food",4.1,1125,600
+31,Nirvana Indian Cuisine (Ginza),Tokyo,Ginza,"Indian, North Indian, Mughlai",4.0,131,2900
+32,Gusto Italiano,Bangalore,Koramangala,"Italian, Pizza, Pasta",3.5,96,700
+33,Bistro Kitchen,New York,Astoria,"Continental, Seafood, Steak",4.8,433,1900
+34,Burger Palace,Mumbai,Colaba,"French, Bakery, Cafe",3.9,163,340
+35,El Taco Zen,New York,Astoria,"Continental, Seafood, Steak",4.0,1051,1640
+36,Wok & Hub,Mumbai,Colaba,"Italian, Pizza, Pasta",3.8,1127,1840
+37,Taj Mahal Dining,London,Shoreditch,"Indian, North Indian, Mughlai",4.8,290,1640
+38,Burger Sichuan,Bangalore,Indiranagar,"Thai, Asian, Curry",3.5,446,2040
+39,Epicurean Sichuan,Mumbai,Colaba,"Thai, Asian, Curry",4.7,119,760
+40,Mamma Mia Curry,Tokyo,Roppongi,"American, Burgers, Fast Food",3.6,282,1640
+41,Bella Chopsticks,Mumbai,Andheri West,"Thai, Asian, Curry",3.0,169,1060
+42,House of Chopsticks,London,Covent Garden,"Chinese, Asian, Dumplings",3.2,646,2160
+43,Peking Wok,Paris,Le Marais,"Chinese, Asian, Dumplings",4.5,847,1080
+44,Bella Curry,Mumbai,Juhu,"Japanese, Sushi, Ramen",4.8,858,1560
+45,Trattoria Romana,Delhi,Saket,"Italian, Pizza, Pasta",3.4,957,2080
+46,The Golden Breeze,Delhi,Saket,"Mexican, Tacos, Quesadillas",3.5,157,1720
+47,Grand Kitchen,Delhi,Karol Bagh,"French, Bakery, Cafe",4.8,251,1620
+48,Mamma Mia Loco,Mumbai,Lower Parel,"American, Burgers, Fast Food",4.1,722,1900
+49,El Taco Nights,New York,Astoria,"Thai, Asian, Curry",4.7,404,1600
+50,Chutney Savor,Bangalore,Jayanagar,"Indian, North Indian, Mughlai",4.4,418,2160
+51,Peking Wok (Manhattan),New York,Manhattan,"Chinese, Asian, Dumplings",4.0,851,1960
+52,Burger Breeze,New York,Queens,"Thai, Asian, Curry",3.8,791,1180
+53,Tandoori Chopsticks,London,Shoreditch,"American, Burgers, Fast Food",4.6,637,1760
+54,Urban Italy,Mumbai,Andheri West,"Continental, Seafood, Steak",3.8,452,2900
+55,Gusto Italiano (Brooklyn),New York,Brooklyn,"Italian, Pizza, Pasta",3.6,496,1880
+56,The Golden Pizzeria,Mumbai,Juhu,"Japanese, Sushi, Ramen",3.9,164,2620
+57,Tandoori Shack,New York,Astoria,"Mexican, Tacos, Quesadillas",3.3,26,840
+58,Salsa & Guac (Saint-Germain),Paris,Saint-Germain,"Mexican, Tacos, Quesadillas",3.5,263,2620
+59,Grand Tavern,Mumbai,Andheri West,"Thai, Asian, Curry",3.6,921,2880
+60,Le Petit Shack,New York,Astoria,"Mediterranean, Greek, Falafel",3.9,521,1700
+61,Wok & Sichuan,Paris,Bastille,"Mediterranean, Greek, Falafel",3.8,600,1500
+62,Grand Zen,Delhi,Rajouri Garden,"Chinese, Asian, Dumplings",3.4,327,1380
+63,Urban Chopsticks,Bangalore,Jayanagar,"French, Bakery, Cafe",3.9,142,1340
+64,House of Curry,Paris,Saint-Germain,"French, Bakery, Cafe",4.6,1194,2240
+65,Dynasty Chinese,New York,Manhattan,"Chinese, Asian, Dumplings",4.0,1133,1420
+66,Bella Shack,New York,Brooklyn,"American, Burgers, Fast Food",3.1,703,2360
+67,Burger Tavern,Tokyo,Shinjuku,"Mediterranean, Greek, Falafel",4.0,821,420
+68,Little Bistro,Bangalore,Jayanagar,"Japanese, Sushi, Ramen",3.7,448,2620
+69,Spicy Vista,Delhi,Rajouri Garden,"French, Bakery, Cafe",3.5,182,2700
+70,Nirvana Indian Cuisine (Whitefield),Bangalore,Whitefield,"Indian, North Indian, Mughlai",4.8,97,440
+71,Burger Roll,Mumbai,Juhu,"Indian, North Indian, Mughlai",4.3,1170,1400
+72,Great Wall Buffet (Queens),New York,Queens,"Chinese, Asian, Dumplings",4.5,350,1880
+73,Tandoori Mahal (Whitefield),Bangalore,Whitefield,"Indian, North Indian, Mughlai",3.8,421,680
+74,Gusto Italiano (Soho),London,Soho,"Italian, Pizza, Pasta",4.5,726,2480
+75,Bistro Kitchen (Ginza),Tokyo,Ginza,"Italian, Pizza, Pasta",3.8,1018,840
+76,Burger Vista,New York,Queens,"Mediterranean, Greek, Falafel",3.3,1083,1680
+77,Little Vista,London,Shoreditch,"Mediterranean, Greek, Falafel",4.6,564,1940
+78,Spicy Italy,Paris,Montmartre,"Italian, Pizza, Pasta",3.9,791,2020
+79,Le Petit Shack (Jayanagar),Bangalore,Jayanagar,"Chinese, Asian, Dumplings",4.5,712,1720
+80,The Golden Garden,London,Camden,"Thai, Asian, Curry",4.8,190,1520
+81,Grand Roll (Roppongi),Tokyo,Roppongi,"Mediterranean, Greek, Falafel",4.3,1020,2580
+82,Trattoria Romana (Le Marais),Paris,Le Marais,"Italian, Pizza, Pasta",3.6,770,2720
+83,Bella Chopsticks (Shoreditch),London,Shoreditch,"Chinese, Asian, Dumplings",4.3,569,1860
+84,Mediterranean Kitchen,Delhi,Saket,"Italian, Pizza, Pasta",4.0,394,1280
+85,House of Garden,Mumbai,Andheri West,"American, Burgers, Fast Food",4.1,220,1280
+86,Le Petit Palace,Delhi,Saket,"Chinese, Asian, Dumplings",4.0,576,520
+87,Burger Shack,Bangalore,Whitefield,"American, Burgers, Fast Food",3.2,40,1740
+88,Urban Bistro,New York,Soho,"Mediterranean, Greek, Falafel",4.8,532,2740
+89,Epicurean Zen,Bangalore,Indiranagar,"French, Bakery, Cafe",4.1,124,1060
+90,Sakura Roll,Mumbai,Lower Parel,"American, Burgers, Fast Food",3.2,867,1440
+91,Little Italy,Paris,Bastille,"French, Bakery, Cafe",3.6,893,1860
+92,Spice Route,London,Shoreditch,"Indian, North Indian, Mughlai",4.3,336,1520
+93,Luigi's Pizzeria,Mumbai,Lower Parel,"Italian, Pizza, Pasta",4.1,611,460
+94,Little Zen,Mumbai,Colaba,"American, Burgers, Fast Food",4.3,556,1300
+95,Wok & Joint,New York,Manhattan,"Thai, Asian, Curry",4.7,306,660
+96,House of Palace,Bangalore,Koramangala,"American, Burgers, Fast Food",3.8,974,1840
+97,Bistro Chopsticks,Tokyo,Roppongi,"American, Burgers, Fast Food",3.9,179,500
+98,Spicy Curry,New York,Queens,"Continental, Seafood, Steak",3.2,1193,400
+99,Mamma Mia Bistro,Paris,Latin Quarter,"Continental, Seafood, Steak",3.9,920,1720
+100,Epicurean Zen (Lower Parel),Mumbai,Lower Parel,"French, Bakery, Cafe",3.9,851,2000
+101,Kyoto Garden,Delhi,Connaught Place,"Japanese, Sushi, Ramen",4.3,835,480
+102,Spicy Kitchen,New York,Manhattan,"Chinese, Asian, Dumplings",4.5,1068,300
+103,Bella Pizzeria,Tokyo,Akihabara,"Mediterranean, Greek, Falafel",3.4,755,2840
+104,Spice Route (Roppongi),Tokyo,Roppongi,"Indian, North Indian, Mughlai",3.8,1007,920
+105,Salsa & Guac (Whitefield),Bangalore,Whitefield,"Mexican, Tacos, Quesadillas",3.8,475,880
+106,Kyoto Garden (Manhattan),New York,Manhattan,"Japanese, Sushi, Ramen",3.8,1003,2700
+107,Burger Nights,Mumbai,Andheri West,"Thai, Asian, Curry",3.4,1055,980
+108,Bella Kitchen,Paris,Le Marais,"American, Burgers, Fast Food",4.8,1054,1660
+109,Royal Plaza,Paris,Le Marais,"American, Burgers, Fast Food",4.1,1017,1060
+110,Gourmet Kitchen,New York,Astoria,"Mediterranean, Greek, Falafel",4.0,1127,2220
+111,Wok & Plaza,New York,Queens,"Mexican, Tacos, Quesadillas",4.6,856,520
+112,Tandoori Joint,Delhi,Hauz Khas,"French, Bakery, Cafe",3.9,90,940
+113,El Taco Italy,London,Shoreditch,"Chinese, Asian, Dumplings",4.7,46,1020
+114,Epicurean Sichuan (Brooklyn),New York,Brooklyn,"Italian, Pizza, Pasta",4.3,179,1980
+115,Urban Shack,Paris,Bastille,"French, Bakery, Cafe",4.7,88,640
+116,Taco Fiesta (Colaba),Mumbai,Colaba,"Mexican, Tacos, Quesadillas",3.8,628,440
+117,Royal Hub,Bangalore,HSR Layout,"Indian, North Indian, Mughlai",3.3,1102,2400
+118,Oishi Sushi (Soho),London,Soho,"Japanese, Sushi, Ramen",4.2,508,2840
+119,Taco Fiesta (Soho),London,Soho,"Mexican, Tacos, Quesadillas",4.7,967,1760
+120,Izakaya Tokyo (Akihabara),Tokyo,Akihabara,"Japanese, Sushi, Ramen",3.6,883,1580
+121,Tandoori Shack (Queens),New York,Queens,"Mexican, Tacos, Quesadillas",3.7,750,1800
+122,Tandoori Sichuan,Tokyo,Ginza,"Indian, North Indian, Mughlai",4.6,115,2840
+123,Salsa & Guac (Latin Quarter),Paris,Latin Quarter,"Mexican, Tacos, Quesadillas",3.5,295,780
+124,Little Pizzeria,Tokyo,Shibuya,"American, Burgers, Fast Food",4.1,284,760
+125,Le Petit Breeze,Delhi,Rajouri Garden,"French, Bakery, Cafe",3.3,1119,2160
+126,Le Petit Sichuan,London,Shoreditch,"American, Burgers, Fast Food",4.7,1001,1800
+127,Little Zen (Ginza),Tokyo,Ginza,"Italian, Pizza, Pasta",4.8,828,2160
+128,Spicy Chopsticks,Bangalore,Jayanagar,"Indian, North Indian, Mughlai",3.7,551,2240
+129,Wok & Shack,Paris,Latin Quarter,"Italian, Pizza, Pasta",4.7,1164,1960
+130,La Piazza,London,Soho,"Italian, Pizza, Pasta",3.3,91,1840
+131,Wok & Chopsticks,New York,Manhattan,"Italian, Pizza, Pasta",3.9,1121,2440
+132,El Taco Shack,London,Soho,"French, Bakery, Cafe",4.2,587,460
+133,Cantina Mexicana,Tokyo,Ginza,"Mexican, Tacos, Quesadillas",3.2,767,2120
+134,Mediterranean Loco,Bangalore,Jayanagar,"American, Burgers, Fast Food",4.8,946,760
+135,The Golden Pizzeria (Shinjuku),Tokyo,Shinjuku,"Continental, Seafood, Steak",4.5,513,940
+136,Sakura Chopsticks,Paris,Bastille,"Mexican, Tacos, Quesadillas",3.4,492,1980
+137,The Golden Sichuan,Paris,Montmartre,"Continental, Seafood, Steak",4.6,311,960
+138,El Taco Curry,London,Camden,"Japanese, Sushi, Ramen",3.7,502,1940
+139,Mamma Mia Joint,Bangalore,Koramangala,"American, Burgers, Fast Food",4.4,1092,880
+140,Little Hub,Tokyo,Shibuya,"Mediterranean, Greek, Falafel",4.0,238,2600
+141,Mamma Mia Garden,London,Soho,"Continental, Seafood, Steak",3.6,78,600
+142,El Taco Shack (Soho),New York,Soho,"French, Bakery, Cafe",4.4,923,660
+143,Burger Zen,Bangalore,HSR Layout,"Continental, Seafood, Steak",3.2,1138,1960
+144,Royal Italy,New York,Astoria,"Thai, Asian, Curry",4.0,896,800
+145,Mediterranean Vista,Paris,Le Marais,"Thai, Asian, Curry",3.9,482,2400
+146,Bella Loco,Delhi,Hauz Khas,"French, Bakery, Cafe",3.6,655,1600
+147,Sakura Zen,Delhi,Saket,"Mediterranean, Greek, Falafel",4.6,205,2500
+148,Izakaya Tokyo (HSR Layout),Bangalore,HSR Layout,"Japanese, Sushi, Ramen",4.1,265,2400
+149,Royal Tavern (Hauz Khas),Delhi,Hauz Khas,"Indian, North Indian, Mughlai",3.2,1054,1380
+150,Cantina Mexicana (Andheri West),Mumbai,Andheri West,"Mexican, Tacos, Quesadillas",3.2,585,1440
